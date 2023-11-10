@@ -2,8 +2,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-alexandre/) [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jeffersdesena) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5511949297513&text&type=phone_number&app_absent=0)
 
 
-![theFriendJeff GitHub stats](https://github-readme-stats.vercel.app/api?username=thefriendjeff&show_icons=true&theme=transparent)
-
+![theFriendJeff GitHub stats](https://github-readme-stats.vercel.app/api?username=thefriendjeff&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thefriendjeff)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que uso no meu dia-a-
  
