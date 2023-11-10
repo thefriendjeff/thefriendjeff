@@ -26,4 +26,4 @@ UX Designer & Engenheiro Front-end em início de carreira
 - [EcoWear - UX Design Case Study](https://www.behance.net/gallery/175115989/UXUI-Case-Study-EcoWear)<br/>
 - [Wedd APP - UX Design Case Study](https://www.behance.net/gallery/179337093/Wedd-UXUI-Design-Case-Study)<br/>
 - [Harry & Meghan Landing](https://harry-meghan.vercel.app/)<br/>
-- [Calculadora arítimética (Vue.js)]([https://vercel.com/thefriendjeff/tarefa-vue-js](https://tarefa-vue-js.vercel.app/)https://tarefa-vue-js.vercel.app/)
+- [Calculadora arítimética (Vue.js)](https://tarefa-vue-js.vercel.app/)
