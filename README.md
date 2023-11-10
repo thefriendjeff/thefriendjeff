@@ -4,7 +4,7 @@
 
 ![theFriendJeff GitHub stats](https://github-readme-stats.vercel.app/api?username=thefriendjeff&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thefriendjeff)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tecnologias que uso no meu dia-a-
+## Tecnologias que uso diariamente
  
 
 <div style="display: inline-block"><br/>
