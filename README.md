@@ -18,7 +18,7 @@
 
 </div><br><br>
 
-Formado pela Interaction design foundation e Escola Britânica de artes criativas(EBAC)
+Formado pela Interaction design foundation e Escola Britânica de artes criativas(EBAC)<br/>
 UX Designer & Engenheiro Front-end em início de carreira
 
 ## PROJETOS UX:
