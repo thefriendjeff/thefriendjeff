@@ -4,7 +4,7 @@
 
 ![theFriendJeff GitHub stats](https://github-readme-stats.vercel.app/api?username=thefriendjeff&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thefriendjeff)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tecnologias que uso diariamente
+## Tecnologias que uso no meu dia-a-
  
 
 <div style="display: inline-block"><br/>
@@ -18,7 +18,6 @@
 
 </div><br><br>
 
-Formado pela Interaction design foundation e Escola Britânica de artes criativas(EBAC)<br/>
 UX Designer & Engenheiro Front-end em início de carreira
 
 ## PROJETOS UX:
@@ -26,8 +25,10 @@ UX Designer & Engenheiro Front-end em início de carreira
 - [EcoWear - UX Design Case Study](https://www.behance.net/gallery/175115989/UXUI-Case-Study-EcoWear)<br/>
 - [Wedd APP - UX Design Case Study](https://www.behance.net/gallery/179337093/Wedd-UXUI-Design-Case-Study)<br/>
 
-## PROJETOS FRONT(EBAC):
+## PROJETOS EBAC:
 - [Harry & Meghan Landing](https://harry-meghan.vercel.app/)<br/>
 - [Calculadora arítimética (Vue.js)](https://tarefa-vue-js.vercel.app/)
-- [Landing Page - página de um evento fictício](https://modulo22-task.vercel.app/)
+- [Calculadora IMC (REACT)](https://calculadora-imc-plum-nine.vercel.app/)
+
+
 
