@@ -26,9 +26,14 @@ UX Designer & Engenheiro Front-end em início de carreira
 - [Wedd APP - UX Design Case Study](https://www.behance.net/gallery/179337093/Wedd-UXUI-Design-Case-Study)<br/>
 
 ## PROJETOS EBAC:
-- [Harry & Meghan Landing](https://harry-meghan.vercel.app/)<br/>
-- [Calculadora arítimética (Vue.js)](https://tarefa-vue-js.vercel.app/)
-- [Calculadora IMC (REACT)](https://calculadora-imc-plum-nine.vercel.app/)
-
-
+- [Landing page (Bootstrap)](https://modulo-14-tarefa.vercel.app/#fale-conosco) — Neste projeto criamos um site em bootstrap com navbar, hero e algumas seções.
+Bem como a instalação correta via link do pacote css e js disponível na biblioteca.
+- [Calculadora arítimética (Vue.js)](https://tarefa-vue-js.vercel.app/) — Com essa atividade aprendi a desenvolver uma aplicação de acordo com as classes
+Vue.js e como realizar as configurações para o uso das bibliotecas.
+- [Calculadora IMC (REACT)](https://calculadora-imc-plum-nine.vercel.app/) — Aqui criamos uma calculadora IMC que calcula altura/peso e devolve o resultado,
+juntamente com uma tabela auxiliar abaixo para ajudar o usuário a identificar se ele
+está abaixo, na média ou acima do peso.
+- [Calculadora de médias (HTML,CSS,JS)](https://jefferson-calculadora-medias.vercel.app/) — Nesta atividade o desafio era criar uma calculadora de médias onde o professor
+pode escolher uma nota minima de aceitação e com base na nota do aluno
+determinar se ele foi aprovado ou reprovado.
 
