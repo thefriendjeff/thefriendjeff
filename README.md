@@ -22,8 +22,7 @@ UX Designer & Engenheiro Front-end em início de carreira
 
 ## PROJETOS UX:
 
-- [EcoWear - UX Design Case Study](https://www.behance.net/gallery/175115989/UXUI-Case-Study-EcoWear)<br/>
-- [Wedd APP - UX Design Case Study](https://www.behance.net/gallery/179337093/Wedd-UXUI-Design-Case-Study)<br/>
+- [EcoWear - UX Design Case Study]([https://www.behance.net/gallery/175115989/UXUI-Case-Study-EcoWear](https://www.behance.net/gallery/195625939/EcoWear)<br/>
 
 ## PROJETOS EBAC:
 - [Landing page (Bootstrap)](https://modulo-14-tarefa.vercel.app/#fale-conosco) — Neste projeto criamos um site em bootstrap com navbar, hero e algumas seções.
